@@ -1,4 +1,4 @@
-# FinanceForum
+# Finance Forum for Activist Investors
 Built using Python Django. User can post questions and comments on finance related topics. Others are able to comment and upvote posts for verification and priority.
 
 
